@@ -1,0 +1,25 @@
+{
+  "configurations": [
+    {
+      "name": "Win32",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "C:/Users/adige/vcpkg/installed/x64-windows/include",
+        "C:/msys64/ucrt64/include",
+        "C:/msys64/ucrt64/include/wx-3.0",
+        "C:/msys64/ucrt64/lib/wx/include/msw-unicode-3.0"
+      ],
+      "defines": [
+        "__WXMSW__",
+        "WXUSINGDLL",
+        "_UNICODE"
+      ],
+      "compilerPath": "C:/msys64/ucrt64/bin/g++.exe",
+      "cStandard": "c11",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "windows-gcc-x64"
+    }
+  ],
+  "version": 4
+}
+
